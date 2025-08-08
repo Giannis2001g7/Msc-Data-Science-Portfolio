@@ -95,7 +95,7 @@ Each entry corresponds to a course and includes assignments, code, final reports
 - Streaming pipelines with Apache Kafka, PySpark, and Cassandra  
 - Structured streaming, stateful transformations  
 - Topics: HDFS, job scheduling, streaming joins
-- 
+
 
 #### 📌 Legal and Ethical Issues in Data Science  
 **Focus**: Data privacy, fairness, and responsible AI
@@ -105,10 +105,31 @@ Each entry corresponds to a course and includes assignments, code, final reports
 - Case studies: Cambridge Analytica, social scoring  
 - Policy design for ethical AI systems  
 
+#### 📌 Statistics for Big Data  
+**Focus**: Statistical methods for high-dimensional and complex datasets in the era of big data
+
+- Challenges with traditional methods on large-scale datasets  
+- Regularization techniques for variable selection (Lasso, Ridge, Elastic Net)  
+- Multiplicity problems: False Discovery Rate, Family-wise Error Rate  
+- Genetic data analysis: SAM, Supervised PCA, Genome-wide association methods  
+- Statistical network analysis: bipartite networks, latent space models, random subgraphs  
+- Practical implementation using R and specialized statistical packages  
 
 ---
 
 ### 📘 Trimester 3
+
+
+#### 📌 Introduction to Quantitative Finance and Financial Risk Management  
+**Focus**: Financial instruments, asset modeling, and quantitative risk analysis
+
+- Fixed income securities: interest rate curves, duration, convexity, valuation  
+- Derivatives: forwards, futures, swaps, and options under the Black–Scholes framework  
+- Risk metrics: Value at Risk (VaR), Expected Shortfall, Potential Future Exposure  
+- VaR methodologies: historical simulation, parametric models, Monte Carlo simulation  
+- Credit risk modeling: Merton model, CreditMetrics, Basel II capital requirements  
+- Hands-on Monte Carlo simulations and time series analysis of real-world market data  
+
 
 
 #### 📌 Data Visualization and Communication  
