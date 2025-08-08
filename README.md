@@ -1,10 +1,10 @@
 # 👨‍🎓 About Me
-**[Your Full Name]**  
-MSc in Data Science, Class of 2025  
-[Your University Name]  
-Current Role: [Your Current Role or remove if not applicable]  
-📧 [your.email@example.com]  
-🔗 [LinkedIn](https://www.linkedin.com/in/yourprofile)
+**Ioannis Papadopoulos**  
+MSc in Data Science  
+Athens University of Economics and Business  
+Current Role: Software Engineer, Costamare  
+📧 johhnyp7.gp@gmail.com  
+🔗 [LinkedIn]https://www.linkedin.com/in/giannis-papadopoulos2001/
 
 ---
 
